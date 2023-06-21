@@ -1,0 +1,9 @@
+{
+    "mini_app_base_git_base64": "aHR0cHM6Ly9tb2JpbGUtam9rZXItMDY4OmdocF9uWGZsQ0phV2ZVZHQydmNxa2JHSnFDZGtwMHNvaUgzMjRQdWxAZ2l0aHViLmNvbS9tb2JpbGUtam9rZXItMDY4L21pbmlfYXBwX2Jhc2UuZ2l0IC0tYnJhbmNoIHYwLjAuNQ==",
+    "check_standard_manifest_link": "https://raw.githubusercontent.com/mobile-ekko/config_supper_app/main/manifest.json",
+    "max_bundle_size_in_mb": 5,
+    "max_asset_in_kb": 100,
+    "analyze_content": {
+        "max_string_length": 120
+    }
+}
