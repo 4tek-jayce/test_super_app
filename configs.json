@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "appId": "000001",
+        "appName": "V99MiniApp3",
+        "containerName": "V99MiniApp3",
+        "module": "./App",
+        "version": "1",
+        "active": true,
+        "url": "https://raw.githubusercontent.com/mobile-jayce/my_configs/main/V99MiniApp3.zip"
+    }
+]
