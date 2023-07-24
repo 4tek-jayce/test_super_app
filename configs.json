@@ -1,0 +1,16 @@
+[
+    {
+        "id": 2,
+        "appId": "0000002",
+        "appName": "Mini app 2 - v1",
+        "containerName": "app2",
+        "module": "./App",
+        "version": "1",
+        "checksumContainer": "750ac501f0e543453f2d71cf12e70e128e809676c1b5b532870ae141710ac51a",
+        "checksumChunk": "9ecae218c09933dadad94fc457a639a31abb37f7d202a61f770d825095526855",
+        "status": null,
+        "active": true,
+        "url": "https://raw.githubusercontent.com/mobile-jayce/my_configs/main/app2.zip",
+        "currentPermissions": null
+    }
+]
