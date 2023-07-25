@@ -8,5 +8,15 @@
         "version": "1",
         "active": true,
         "url": "https://raw.githubusercontent.com/mobile-jayce/my_configs/main/V99MiniApp3.zip"
+    },
+    {
+        "id": 2,
+        "appId": "000002",
+        "appName": "MiniApp1",
+        "containerName": "MiniApp1",
+        "module": "./App",
+        "version": "1",
+        "active": true,
+        "url": "https://raw.githubusercontent.com/mobile-jayce/my_configs/main/MiniApp1.zip"
     }
 ]
