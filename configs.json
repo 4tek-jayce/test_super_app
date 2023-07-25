@@ -7,7 +7,7 @@
         "module": "./App",
         "version": "1",
         "active": true,
-        "url": "https://raw.githubusercontent.com/mobile-jayce/my_configs/main/V99MiniApp3.zip"
+        "url": "https://raw.githubusercontent.com/mobile-jayce/my_configs/main/bundles"
     },
     {
         "id": 2,
@@ -17,6 +17,16 @@
         "module": "./App",
         "version": "1",
         "active": true,
-        "url": "https://raw.githubusercontent.com/mobile-jayce/my_configs/main/MiniApp1.zip"
+        "url": "https://raw.githubusercontent.com/mobile-jayce/my_configs/main/bundles"
+    },
+    {
+        "id": 3,
+        "appId": "000003",
+        "appName": "MiniApp2",
+        "containerName": "MiniApp2",
+        "module": "./App",
+        "version": "1",
+        "active": true,
+        "url": "https://raw.githubusercontent.com/mobile-jayce/my_configs/main/MiniApp2.zip"
     }
 ]
